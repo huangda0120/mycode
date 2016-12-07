@@ -1,0 +1,41 @@
+17:25:24.420842 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:24.421227 IP 192.168.0.1 > 192.168.1.82: ICMP time exceeded in-transit, length 56
+
+17:25:25.433741 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:25.434819 IP 218.76.35.169 > 192.168.1.82: ICMP time exceeded in-transit, length 36
+
+17:25:26.448363 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:26.452839 IP 222.247.26.205 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:27.464900 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:27.469944 IP 61.137.6.209 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:28.480627 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:28.494803 IP 202.97.77.169 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:29.509943 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:29.525131 IP 113.108.208.26 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:30.526511 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+
+17:25:52.243218 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:52.243621 IP 192.168.0.1 > 192.168.1.82: ICMP time exceeded in-transit, length 56
+
+17:25:53.245342 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:53.247485 IP 218.76.35.169 > 192.168.1.82: ICMP time exceeded in-transit, length 36
+
+17:25:54.260750 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:54.263620 IP 222.247.26.205 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:55.274870 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:55.279581 IP 61.137.6.209 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:56.292766 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:56.306737 IP 202.97.77.169 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+
+17:25:57.308225 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+17:25:57.321727 IP 113.108.208.26 > 192.168.1.82: ICMP time exceeded in-transit, length 76
+
+17:25:58.322668 IP 192.168.1.82 > 14.215.177.38: ICMP echo request, id 0, seq 0, length 28
+
